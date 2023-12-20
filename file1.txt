@@ -1,4 +1,8 @@
 Hello Students !
 Welcome to PW IOI..
+<<<<<<< HEAD
 Batch 2023-2027
 Yes!
+=======
+How are you all guys
+>>>>>>> b6c2bfcf4b9c060df9fb9df811be87cb2126fedc
